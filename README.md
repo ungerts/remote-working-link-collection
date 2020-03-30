@@ -10,7 +10,7 @@ Collection of awesome links around remote working.
 
 ### Remote Retrospective
 
-* to-be-filled
+* [Employees at home are being photographed every 5 minutes](https://www.businessinsider.com/work-from-home-sneek-webcam-picture-5-minutes-monitor-video-2020-3?r=DE&IR=T)
 
 ## Tips, Best Practicies
 
