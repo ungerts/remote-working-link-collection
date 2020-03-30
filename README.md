@@ -1,5 +1,7 @@
 # Remote Working Link Collection
 
+Collection of awesome links around remote working.
+
 ## Methods
 
 ### Remote Mob Programming
@@ -7,6 +9,8 @@
 * [remotemobprogramming.org](https://www.remotemobprogramming.org/)
 
 ### Remote Retrospective
+
+* to-be-filled
 
 ## Tips, Best Practicies
 
@@ -31,3 +35,9 @@
 
 - Microphone: [Blue Yeti X Pro](https://www.idealo.de/preisvergleich/OffersOfProduct/7018328_-yeti-x-pro-blackout-blue-microphones.html) or [Blue Yeti](https://www.idealo.de/preisvergleich/OffersOfProduct/4820546_-yeti-schwarz-blue-microphones.html) - a good microphone is essential when talking for a longer time. No need to waste energy on trying to understand someone. No hazzles with a headset to be weared for hours. Just use your normal speakers and a great microphone.
 - Camera: [Logitech C920s](https://www.idealo.de/preisvergleich/OffersOfProduct/6647247_-c920s-logitech.html) or [Logtitech C920](https://www.idealo.de/preisvergleich/OffersOfProduct/3070374_-hd-pro-c920-logitech.html) - a good camera is essential when communicating
+
+## Other resources
+
+- <https://github.com/lukasz-madon/awesome-remote-job> - awesome list collecting companies and resources around teleworking. Also contains a [tools section](https://github.com/lukasz-madon/awesome-remote-job#tools).
+- <https://github.com/hugo53/awesome-RemoteWork> - small awesome list collecting companies and resources around teleworking. Also contains a [tools section](https://github.com/hugo53/awesome-RemoteWork#software).
+
