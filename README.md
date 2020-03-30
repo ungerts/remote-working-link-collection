@@ -24,7 +24,7 @@ Collection of awesome links around remote working.
 
 * [jit.si](https://meet.jit.si/) - chatting and screen sharing without the need for pre-registration. [100% open source](https://github.com/jitsi)
 * [Slack](https://slack.com/intl/de-de/)
-* [Zoom](https://zoom.us/)
+* [Zoom](https://zoom.us/) - find hints at <https://effectivehomeoffice.com/setup-zoom-as-virtual-team-room/>.
 * [Microsoft Teams](https://products.office.com/de-de/microsoft-teams/group-chat-software)
 * [Webex Teams](https://www.webex.com/de/team-collaboration.html)
 * [Skype](https://www.skype.com/)
