@@ -23,6 +23,8 @@ Collection of awesome links around remote working.
 ## Tools
 
 * [jit.si](https://meet.jit.si/) - chatting and screen sharing without the need for pre-registration. [100% open source](https://github.com/jitsi)
+  * <https://jitsi.random-redirect.de> - use a non-overloaded community-hosted Jitsi server (from a [pre-defined list](https://github.com/tosterkamp/random-redirect/blob/master/res/jitsi_servers.lst)).
+  * [Blog: Looking for a privacy friendly tool for your video chats? Try Jitsi.](https://www.bitsoffreedom.nl/2020/03/26/looking-for-a-privacy-friendly-tool-for-your-video-chats-try-jitsi/)
 * [Slack](https://slack.com/intl/de-de/)
 * [Zoom](https://zoom.us/) - find hints at <https://effectivehomeoffice.com/setup-zoom-as-virtual-team-room/>.
 * [Microsoft Teams](https://products.office.com/de-de/microsoft-teams/group-chat-software)
@@ -30,6 +32,12 @@ Collection of awesome links around remote working.
 * [Skype](https://www.skype.com/)
 * [Discord](https://discordapp.com/)
 * [Whereby](https://whereby.com/) - good screensharing and video inclusion capabilities. Should be used inside Google Chrome.
+
+Searching for more tools? Wikipedia has a ["Comparison of web conferencing software"](https://en.wikipedia.org/wiki/Comparison_of_web_conferencing_software).
+
+### Blogs on Tools
+
+* [Corona: Technik-Tipps fürs Homeoffice (in German)](https://digitalcourage.de/blog/2020/corona-homeoffice-tipps) - Information portal on privacy-centered tooling by [digitalcourage e.V.](https://digitalcourage.de/).
 
 ## Hardware
 
